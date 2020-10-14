@@ -1,6 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-http12/)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/88f07hu5phnv3cmr?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-http12)
 
 ### Image Manager
 
